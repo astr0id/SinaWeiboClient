@@ -1,0 +1,87 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/Leftbar.png</file>
+        <file>image/sidebar-comments@2x copy.png</file>
+        <file>image/sidebar-comments@2x.png</file>
+        <file>image/sidebar-mentions@2x copy.png</file>
+        <file>image/sidebar-mentions@2x.png</file>
+        <file>image/sidebar-messages@2x copy.png</file>
+        <file>image/sidebar-messages@2x.png</file>
+        <file>image/sidebar-profile@2x copy.png</file>
+        <file>image/sidebar-profile@2x.png</file>
+        <file>image/sidebar-search@2x copy.png</file>
+        <file>image/sidebar-search@2x.png</file>
+        <file>image/sidebar-timeline@2x copy.png</file>
+        <file>image/sidebar-timeline@2x.png</file>
+        <file>image/menu-comments.png</file>
+        <file>image/menu-comments@2x.png</file>
+        <file>image/menu-followers.png</file>
+        <file>image/menu-followers@2x.png</file>
+        <file>image/menu-mentions.png</file>
+        <file>image/menu-mentions@2x.png</file>
+        <file>image/menu-messages.png</file>
+        <file>image/menu-messages@2x.png</file>
+        <file>image/menu-timeline.png</file>
+        <file>image/menu-timeline@2x.png</file>
+        <file>image/statusbar_off.png</file>
+        <file>image/statusbar_off@2x.png</file>
+        <file>image/navigationbar-back.png</file>
+        <file>image/navigationbar-back@2x.png</file>
+        <file>image/navigationbar-compose.png</file>
+        <file>image/navigationbar-compose@2x.png</file>
+        <file>image/navigationbar-list.png</file>
+        <file>image/navigationbar-list@2x.png</file>
+        <file>image/at.png</file>
+        <file>image/at@2x.png</file>
+        <file>image/clock.png</file>
+        <file>image/clock@2x.png</file>
+        <file>image/person.png</file>
+        <file>image/person@2x.png</file>
+        <file>image/star.png</file>
+        <file>image/star@2x.png</file>
+        <file>image/user.png</file>
+        <file>image/mask_test.png</file>
+        <file>image/mask_test2.png</file>
+        <file>image/license_divider.png</file>
+        <file>image/license_divider@2x.png</file>
+        <file>image/mask_circle.png</file>
+        <file>image/mask_circle1.png</file>
+        <file>image/mask.png</file>
+        <file>image/composer-alsoreply.png</file>
+        <file>image/composer-alsoreply@2x.png</file>
+        <file>image/composer-alsoretweet.png</file>
+        <file>image/composer-alsoretweet@2x.png</file>
+        <file>image/conversation.png</file>
+        <file>image/conversation@2x.png</file>
+        <file>image/LOGO_64x64.png</file>
+        <file>image/statusbar_on.png</file>
+        <file>image/statusbar_on@2x.png</file>
+        <file>image/SinaWeibo400x320.png</file>
+        <file>image/SinaWeibo500x400.png</file>
+        <file>image/SinaWeibo300x240.png</file>
+        <file>image/SinaLogo.png</file>
+        <file>image/release-to-refresh.png</file>
+        <file>image/release-to-refresh@2x.png</file>
+        <file>image/goback.png</file>
+        <file>image/goback@2x.png</file>
+        <file>image/composer-emoji.png</file>
+        <file>image/composer-emoji@2x.png</file>
+        <file>image/composer-poi.png</file>
+        <file>image/composer-poi@2x.png</file>
+        <file>image/rounded-icon-plus.png</file>
+        <file>image/rounded-icon-plus@2x.png</file>
+        <file>image/composer-emoji@2x copy.png</file>
+        <file>image/composer-poi@2x copy.png</file>
+        <file>image/rounded-icon-plus@2x copy.png</file>
+        <file>image/unreadPot.png</file>
+        <file>image/refresh.png</file>
+        <file>image/loading.gif</file>
+        <file>image/logo.png</file>
+        <file>image/at copy.png</file>
+        <file>image/clock copy.png</file>
+        <file>image/person copy.png</file>
+        <file>image/star copy.png</file>
+        <file>image/7.gif</file>
+        <file>image/8.gif</file>
+    </qresource>
+</RCC>
